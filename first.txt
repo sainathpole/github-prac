@@ -1,1 +1,3 @@
 initilizing first file
+
+git branch -M main
